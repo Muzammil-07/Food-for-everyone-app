@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "KSKL",
+    "slug": "kskl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.muzammil009.kskl"
+    }
+  },
+  "name": "my-app"
+}
